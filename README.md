@@ -1,4 +1,4 @@
-Table of Contents1
+Table of Contents
 =================
 
 * [General info](#general-info)
